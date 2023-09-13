@@ -3,9 +3,9 @@ package teststore_test
 import (
 	"testing"
 
-	"github.com/my_service2/internal/app/model"
-	"github.com/my_service2/internal/app/store"
-	"github.com/my_service2/internal/app/store/teststore"
+	"github.com/ArturKKK/my_service2/internal/app/model"
+	"github.com/ArturKKK/my_service2/internal/app/store"
+	"github.com/ArturKKK/my_service2/internal/app/store/teststore"
 	"github.com/stretchr/testify/assert"
 )
 
