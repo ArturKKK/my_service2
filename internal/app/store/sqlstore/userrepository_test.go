@@ -3,9 +3,9 @@ package sqlstore_test
 import (
 	"testing"
 
-	"github.com/my_service2/internal/app/model"
-	"github.com/my_service2/internal/app/store"
-	"github.com/my_service2/internal/app/store/sqlstore"
+	"github.com/ArturKKK/my_service2/internal/app/model"
+	"github.com/ArturKKK/my_service2/internal/app/store"
+	"github.com/ArturKKK/my_service2/internal/app/store/sqlstore"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/my_service2/internal/app/model"
+	"github.com/ArturKKK/my_service2/internal/app/model"
 	"github.com/stretchr/testify/assert"
 )
 

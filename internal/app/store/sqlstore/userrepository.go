@@ -3,8 +3,8 @@ package sqlstore
 import (
 	"database/sql"
 
-	"github.com/my_service2/internal/app/model"
-	"github.com/my_service2/internal/app/store"
+	"github.com/ArturKKK/my_service2/internal/app/model"
+	"github.com/ArturKKK/my_service2/internal/app/store"
 )
 
 type UserRepository struct {

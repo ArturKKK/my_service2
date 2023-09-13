@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"net/http"
 
-	"github.com/my_service2/internal/app/apiserver"
+	"github.com/ArturKKK/my_service2/internal/app/apiserver"
 	_ "github.com/lib/pq"
 )
 

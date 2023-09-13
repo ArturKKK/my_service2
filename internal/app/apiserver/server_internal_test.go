@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/my_service2/internal/app/store/teststore"
+	"github.com/ArturKKK/my_service2/internal/app/store/teststore"
 	"github.com/stretchr/testify/assert"
 )
 

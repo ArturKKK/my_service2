@@ -1,6 +1,6 @@
 package store
 
-import "github.com/my_service2/internal/app/model"
+import "github.com/ArturKKK/my_service2/internal/app/model"
 
 type UserRepository interface {
 	Create(*model.User) error
